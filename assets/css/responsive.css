@@ -1,0 +1,15 @@
+@media(max-width:395px){
+    .principal-info img{
+        margin-top: 34px;
+    }
+    .principal-info .description{
+        padding-top: 30px;
+    }
+    .links{
+        margin: 0px 34px 34px 34px;
+    }
+    .links li{
+        padding: 12px 95px 12px 95px;
+        margin-top: 18px;
+    }
+}
